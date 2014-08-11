@@ -1,22 +1,24 @@
-# lita-pls
+# lita-y
 
-k
+Y? Pls
 
 ## Installation
 
-Add lita-pls to your Lita instance's Gemfile:
+Add lita-y to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-pls"
+gem "lita-y"
 ```
 
 ## Usage
 
 ```
-You: Lita pls
-Lita: k
+Bogs: Lita y?
+Lita: Bogs pls
 ```
 
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+Based on the similar [lita-pls](https://github.com/jimmycuadra/lita-pls)

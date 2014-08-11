@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
-  spec.name          = "lita-pls"
-  spec.version       = "0.0.3"
-  spec.authors       = ["Jimmy Cuadra"]
-  spec.email         = ["jimmy@jimmycuadra.com"]
-  spec.description   = %q{A Lita handler to respond to "Lita pls" correctly.}
-  spec.summary       = %q{A Lita handler to respond to "Lita pls" correctly.}
-  spec.homepage      = "https://github.com/jimmycuadra/lita-pls"
+  spec.name          = "lita-y"
+  spec.version       = "0.0.1"
+  spec.authors       = ["Joel Cogen"]
+  spec.email         = ["joel@redilio.us"]
+  spec.description   = %q{A Lita handler to respond to "Lita y?".}
+  spec.summary       = %q{A Lita handler to respond to "Lita y?".}
+  spec.homepage      = "https://github.com/joelcogen/lita-y"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
