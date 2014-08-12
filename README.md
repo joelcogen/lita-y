@@ -13,7 +13,8 @@ gem "lita-y"
 ## Usage
 
 ```
-Bogs: Lita y?
+Dolan: Bogs is raep tiem, prepar anis
+Bogs: Dolan y?
 Lita: Bogs pls
 ```
 
